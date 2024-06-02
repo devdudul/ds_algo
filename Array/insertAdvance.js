@@ -30,7 +30,9 @@ function myunshift(arr, value) {
 console.log(myunshift([1, 2, 3, 4], 5));
 
 //sorting asending
-function sort(arr) {}
+function sort(arr) {
+  //Impliment short function
+}
 
 function mypush1(arr, values) {
   for (let i = 0; i < values.length; i++) {
